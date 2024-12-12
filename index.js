@@ -1,4 +1,4 @@
-import chalk from "chalk"; // This module is so cool
+import chalk from "chalk"; // Import chalk package
 
 console.log(chalk.blue("It works"));
 
